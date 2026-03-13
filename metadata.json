@@ -1,0 +1,5 @@
+{
+  "name": "Cosmetics Photoshoot",
+  "description": "An AI-powered application to generate 6 consistent images of a cosmetic product from different angles based on a reference photo and a creative concept.",
+  "requestFramePermissions": []
+}
